@@ -16,7 +16,6 @@ import java.util.regex.Pattern;
  * @Author: machao
  * @Date:2016/5/17
  * @Version:1.0.0
- * @Company: 诸葛修车网
  */
 public class IdWorker {
 
